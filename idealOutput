@@ -1,0 +1,1112 @@
+Welcome to ECE264, we are working on PA05.
+
+
+Converting 0:
+Converted String: 0 in base: 2, strtol: 0
+Successful conversion.
+Total: 1 Depth: 1 Frame size: 0 Ave Frame size: 0
+Converted String: 0 in base: 3, strtol: 0
+Successful conversion.
+Total: 1 Depth: 1 Frame size: 0 Ave Frame size: 0
+Converted String: 0 in base: 4, strtol: 0
+Successful conversion.
+Total: 1 Depth: 1 Frame size: 0 Ave Frame size: 0
+Converted String: 0 in base: 5, strtol: 0
+Successful conversion.
+Total: 1 Depth: 1 Frame size: 0 Ave Frame size: 0
+Converted String: 0 in base: 6, strtol: 0
+Successful conversion.
+Total: 1 Depth: 1 Frame size: 0 Ave Frame size: 0
+Converted String: 0 in base: 7, strtol: 0
+Successful conversion.
+Total: 1 Depth: 1 Frame size: 0 Ave Frame size: 0
+Converted String: 0 in base: 8, strtol: 0
+Successful conversion.
+Total: 1 Depth: 1 Frame size: 0 Ave Frame size: 0
+Converted String: 0 in base: 9, strtol: 0
+Successful conversion.
+Total: 1 Depth: 1 Frame size: 0 Ave Frame size: 0
+Converted String: 0 in base: 10, strtol: 0
+Successful conversion.
+Total: 1 Depth: 1 Frame size: 0 Ave Frame size: 0
+Converted String: 0 in base: 11, strtol: 0
+Successful conversion.
+Total: 1 Depth: 1 Frame size: 0 Ave Frame size: 0
+Converted String: 0 in base: 12, strtol: 0
+Successful conversion.
+Total: 1 Depth: 1 Frame size: 0 Ave Frame size: 0
+Converted String: 0 in base: 13, strtol: 0
+Successful conversion.
+Total: 1 Depth: 1 Frame size: 0 Ave Frame size: 0
+Converted String: 0 in base: 14, strtol: 0
+Successful conversion.
+Total: 1 Depth: 1 Frame size: 0 Ave Frame size: 0
+Converted String: 0 in base: 15, strtol: 0
+Successful conversion.
+Total: 1 Depth: 1 Frame size: 0 Ave Frame size: 0
+Converted String: 0 in base: 16, strtol: 0
+Successful conversion.
+Total: 1 Depth: 1 Frame size: 0 Ave Frame size: 0
+Converted String: 0 in base: 17, strtol: 0
+Successful conversion.
+Total: 1 Depth: 1 Frame size: 0 Ave Frame size: 0
+Converted String: 0 in base: 18, strtol: 0
+Successful conversion.
+Total: 1 Depth: 1 Frame size: 0 Ave Frame size: 0
+Converted String: 0 in base: 19, strtol: 0
+Successful conversion.
+Total: 1 Depth: 1 Frame size: 0 Ave Frame size: 0
+Converted String: 0 in base: 20, strtol: 0
+Successful conversion.
+Total: 1 Depth: 1 Frame size: 0 Ave Frame size: 0
+Converted String: 0 in base: 21, strtol: 0
+Successful conversion.
+Total: 1 Depth: 1 Frame size: 0 Ave Frame size: 0
+Converted String: 0 in base: 22, strtol: 0
+Successful conversion.
+Total: 1 Depth: 1 Frame size: 0 Ave Frame size: 0
+Converted String: 0 in base: 23, strtol: 0
+Successful conversion.
+Total: 1 Depth: 1 Frame size: 0 Ave Frame size: 0
+Converted String: 0 in base: 24, strtol: 0
+Successful conversion.
+Total: 1 Depth: 1 Frame size: 0 Ave Frame size: 0
+Converted String: 0 in base: 25, strtol: 0
+Successful conversion.
+Total: 1 Depth: 1 Frame size: 0 Ave Frame size: 0
+Converted String: 0 in base: 26, strtol: 0
+Successful conversion.
+Total: 1 Depth: 1 Frame size: 0 Ave Frame size: 0
+Converted String: 0 in base: 27, strtol: 0
+Successful conversion.
+Total: 1 Depth: 1 Frame size: 0 Ave Frame size: 0
+Converted String: 0 in base: 28, strtol: 0
+Successful conversion.
+Total: 1 Depth: 1 Frame size: 0 Ave Frame size: 0
+Converted String: 0 in base: 29, strtol: 0
+Successful conversion.
+Total: 1 Depth: 1 Frame size: 0 Ave Frame size: 0
+Converted String: 0 in base: 30, strtol: 0
+Successful conversion.
+Total: 1 Depth: 1 Frame size: 0 Ave Frame size: 0
+Converted String: 0 in base: 31, strtol: 0
+Successful conversion.
+Total: 1 Depth: 1 Frame size: 0 Ave Frame size: 0
+Converted String: 0 in base: 32, strtol: 0
+Successful conversion.
+Total: 1 Depth: 1 Frame size: 0 Ave Frame size: 0
+Converted String: 0 in base: 33, strtol: 0
+Successful conversion.
+Total: 1 Depth: 1 Frame size: 0 Ave Frame size: 0
+Converted String: 0 in base: 34, strtol: 0
+Successful conversion.
+Total: 1 Depth: 1 Frame size: 0 Ave Frame size: 0
+Converted String: 0 in base: 35, strtol: 0
+Successful conversion.
+Total: 1 Depth: 1 Frame size: 0 Ave Frame size: 0
+Converted String: 0 in base: 36, strtol: 0
+Successful conversion.
+Total: 1 Depth: 1 Frame size: 0 Ave Frame size: 0
+Not converted
+Total: 0 Depth: 0 Frame size: 0 Ave Frame size: 0
+
+
+
+Converting 10:
+Converted String: 1010 in base: 2, strtol: 10
+Successful conversion.
+Total: 4 Depth: 4 Frame size: 96 Ave Frame size: 96
+Converted String: 101 in base: 3, strtol: 10
+Successful conversion.
+Total: 3 Depth: 3 Frame size: 96 Ave Frame size: 96
+Converted String: 22 in base: 4, strtol: 10
+Successful conversion.
+Total: 2 Depth: 2 Frame size: 96 Ave Frame size: 96
+Converted String: 20 in base: 5, strtol: 10
+Successful conversion.
+Total: 2 Depth: 2 Frame size: 96 Ave Frame size: 96
+Converted String: 14 in base: 6, strtol: 10
+Successful conversion.
+Total: 2 Depth: 2 Frame size: 96 Ave Frame size: 96
+Converted String: 13 in base: 7, strtol: 10
+Successful conversion.
+Total: 2 Depth: 2 Frame size: 96 Ave Frame size: 96
+Converted String: 12 in base: 8, strtol: 10
+Successful conversion.
+Total: 2 Depth: 2 Frame size: 96 Ave Frame size: 96
+Converted String: 11 in base: 9, strtol: 10
+Successful conversion.
+Total: 2 Depth: 2 Frame size: 96 Ave Frame size: 96
+Converted String: 10 in base: 10, strtol: 10
+Successful conversion.
+Total: 2 Depth: 2 Frame size: 96 Ave Frame size: 96
+Converted String: a in base: 11, strtol: 10
+Successful conversion.
+Total: 1 Depth: 1 Frame size: 0 Ave Frame size: 0
+Converted String: a in base: 12, strtol: 10
+Successful conversion.
+Total: 1 Depth: 1 Frame size: 0 Ave Frame size: 0
+Converted String: a in base: 13, strtol: 10
+Successful conversion.
+Total: 1 Depth: 1 Frame size: 0 Ave Frame size: 0
+Converted String: a in base: 14, strtol: 10
+Successful conversion.
+Total: 1 Depth: 1 Frame size: 0 Ave Frame size: 0
+Converted String: a in base: 15, strtol: 10
+Successful conversion.
+Total: 1 Depth: 1 Frame size: 0 Ave Frame size: 0
+Converted String: a in base: 16, strtol: 10
+Successful conversion.
+Total: 1 Depth: 1 Frame size: 0 Ave Frame size: 0
+Converted String: a in base: 17, strtol: 10
+Successful conversion.
+Total: 1 Depth: 1 Frame size: 0 Ave Frame size: 0
+Converted String: a in base: 18, strtol: 10
+Successful conversion.
+Total: 1 Depth: 1 Frame size: 0 Ave Frame size: 0
+Converted String: a in base: 19, strtol: 10
+Successful conversion.
+Total: 1 Depth: 1 Frame size: 0 Ave Frame size: 0
+Converted String: a in base: 20, strtol: 10
+Successful conversion.
+Total: 1 Depth: 1 Frame size: 0 Ave Frame size: 0
+Converted String: a in base: 21, strtol: 10
+Successful conversion.
+Total: 1 Depth: 1 Frame size: 0 Ave Frame size: 0
+Converted String: a in base: 22, strtol: 10
+Successful conversion.
+Total: 1 Depth: 1 Frame size: 0 Ave Frame size: 0
+Converted String: a in base: 23, strtol: 10
+Successful conversion.
+Total: 1 Depth: 1 Frame size: 0 Ave Frame size: 0
+Converted String: a in base: 24, strtol: 10
+Successful conversion.
+Total: 1 Depth: 1 Frame size: 0 Ave Frame size: 0
+Converted String: a in base: 25, strtol: 10
+Successful conversion.
+Total: 1 Depth: 1 Frame size: 0 Ave Frame size: 0
+Converted String: a in base: 26, strtol: 10
+Successful conversion.
+Total: 1 Depth: 1 Frame size: 0 Ave Frame size: 0
+Converted String: a in base: 27, strtol: 10
+Successful conversion.
+Total: 1 Depth: 1 Frame size: 0 Ave Frame size: 0
+Converted String: a in base: 28, strtol: 10
+Successful conversion.
+Total: 1 Depth: 1 Frame size: 0 Ave Frame size: 0
+Converted String: a in base: 29, strtol: 10
+Successful conversion.
+Total: 1 Depth: 1 Frame size: 0 Ave Frame size: 0
+Converted String: a in base: 30, strtol: 10
+Successful conversion.
+Total: 1 Depth: 1 Frame size: 0 Ave Frame size: 0
+Converted String: a in base: 31, strtol: 10
+Successful conversion.
+Total: 1 Depth: 1 Frame size: 0 Ave Frame size: 0
+Converted String: a in base: 32, strtol: 10
+Successful conversion.
+Total: 1 Depth: 1 Frame size: 0 Ave Frame size: 0
+Converted String: a in base: 33, strtol: 10
+Successful conversion.
+Total: 1 Depth: 1 Frame size: 0 Ave Frame size: 0
+Converted String: a in base: 34, strtol: 10
+Successful conversion.
+Total: 1 Depth: 1 Frame size: 0 Ave Frame size: 0
+Converted String: a in base: 35, strtol: 10
+Successful conversion.
+Total: 1 Depth: 1 Frame size: 0 Ave Frame size: 0
+Converted String: a in base: 36, strtol: 10
+Successful conversion.
+Total: 1 Depth: 1 Frame size: 0 Ave Frame size: 0
+Not converted
+Total: 0 Depth: 0 Frame size: 0 Ave Frame size: 0
+
+
+
+Converting -10:
+Converted String: -1010 in base: 2, strtol: -10
+Successful conversion.
+Total: 4 Depth: 4 Frame size: 96 Ave Frame size: 96
+Converted String: -101 in base: 3, strtol: -10
+Successful conversion.
+Total: 3 Depth: 3 Frame size: 96 Ave Frame size: 96
+Converted String: -22 in base: 4, strtol: -10
+Successful conversion.
+Total: 2 Depth: 2 Frame size: 96 Ave Frame size: 96
+Converted String: -20 in base: 5, strtol: -10
+Successful conversion.
+Total: 2 Depth: 2 Frame size: 96 Ave Frame size: 96
+Converted String: -14 in base: 6, strtol: -10
+Successful conversion.
+Total: 2 Depth: 2 Frame size: 96 Ave Frame size: 96
+Converted String: -13 in base: 7, strtol: -10
+Successful conversion.
+Total: 2 Depth: 2 Frame size: 96 Ave Frame size: 96
+Converted String: -12 in base: 8, strtol: -10
+Successful conversion.
+Total: 2 Depth: 2 Frame size: 96 Ave Frame size: 96
+Converted String: -11 in base: 9, strtol: -10
+Successful conversion.
+Total: 2 Depth: 2 Frame size: 96 Ave Frame size: 96
+Converted String: -10 in base: 10, strtol: -10
+Successful conversion.
+Total: 2 Depth: 2 Frame size: 96 Ave Frame size: 96
+Converted String: -a in base: 11, strtol: -10
+Successful conversion.
+Total: 1 Depth: 1 Frame size: 0 Ave Frame size: 0
+Converted String: -a in base: 12, strtol: -10
+Successful conversion.
+Total: 1 Depth: 1 Frame size: 0 Ave Frame size: 0
+Converted String: -a in base: 13, strtol: -10
+Successful conversion.
+Total: 1 Depth: 1 Frame size: 0 Ave Frame size: 0
+Converted String: -a in base: 14, strtol: -10
+Successful conversion.
+Total: 1 Depth: 1 Frame size: 0 Ave Frame size: 0
+Converted String: -a in base: 15, strtol: -10
+Successful conversion.
+Total: 1 Depth: 1 Frame size: 0 Ave Frame size: 0
+Converted String: -a in base: 16, strtol: -10
+Successful conversion.
+Total: 1 Depth: 1 Frame size: 0 Ave Frame size: 0
+Converted String: -a in base: 17, strtol: -10
+Successful conversion.
+Total: 1 Depth: 1 Frame size: 0 Ave Frame size: 0
+Converted String: -a in base: 18, strtol: -10
+Successful conversion.
+Total: 1 Depth: 1 Frame size: 0 Ave Frame size: 0
+Converted String: -a in base: 19, strtol: -10
+Successful conversion.
+Total: 1 Depth: 1 Frame size: 0 Ave Frame size: 0
+Converted String: -a in base: 20, strtol: -10
+Successful conversion.
+Total: 1 Depth: 1 Frame size: 0 Ave Frame size: 0
+Converted String: -a in base: 21, strtol: -10
+Successful conversion.
+Total: 1 Depth: 1 Frame size: 0 Ave Frame size: 0
+Converted String: -a in base: 22, strtol: -10
+Successful conversion.
+Total: 1 Depth: 1 Frame size: 0 Ave Frame size: 0
+Converted String: -a in base: 23, strtol: -10
+Successful conversion.
+Total: 1 Depth: 1 Frame size: 0 Ave Frame size: 0
+Converted String: -a in base: 24, strtol: -10
+Successful conversion.
+Total: 1 Depth: 1 Frame size: 0 Ave Frame size: 0
+Converted String: -a in base: 25, strtol: -10
+Successful conversion.
+Total: 1 Depth: 1 Frame size: 0 Ave Frame size: 0
+Converted String: -a in base: 26, strtol: -10
+Successful conversion.
+Total: 1 Depth: 1 Frame size: 0 Ave Frame size: 0
+Converted String: -a in base: 27, strtol: -10
+Successful conversion.
+Total: 1 Depth: 1 Frame size: 0 Ave Frame size: 0
+Converted String: -a in base: 28, strtol: -10
+Successful conversion.
+Total: 1 Depth: 1 Frame size: 0 Ave Frame size: 0
+Converted String: -a in base: 29, strtol: -10
+Successful conversion.
+Total: 1 Depth: 1 Frame size: 0 Ave Frame size: 0
+Converted String: -a in base: 30, strtol: -10
+Successful conversion.
+Total: 1 Depth: 1 Frame size: 0 Ave Frame size: 0
+Converted String: -a in base: 31, strtol: -10
+Successful conversion.
+Total: 1 Depth: 1 Frame size: 0 Ave Frame size: 0
+Converted String: -a in base: 32, strtol: -10
+Successful conversion.
+Total: 1 Depth: 1 Frame size: 0 Ave Frame size: 0
+Converted String: -a in base: 33, strtol: -10
+Successful conversion.
+Total: 1 Depth: 1 Frame size: 0 Ave Frame size: 0
+Converted String: -a in base: 34, strtol: -10
+Successful conversion.
+Total: 1 Depth: 1 Frame size: 0 Ave Frame size: 0
+Converted String: -a in base: 35, strtol: -10
+Successful conversion.
+Total: 1 Depth: 1 Frame size: 0 Ave Frame size: 0
+Converted String: -a in base: 36, strtol: -10
+Successful conversion.
+Total: 1 Depth: 1 Frame size: 0 Ave Frame size: 0
+Not converted
+Total: 0 Depth: 0 Frame size: 0 Ave Frame size: 0
+
+
+
+Converting 127:
+Converted String: 1111111 in base: 2, strtol: 127
+Successful conversion.
+Total: 7 Depth: 7 Frame size: 96 Ave Frame size: 96
+Converted String: 11201 in base: 3, strtol: 127
+Successful conversion.
+Total: 5 Depth: 5 Frame size: 96 Ave Frame size: 96
+Converted String: 1333 in base: 4, strtol: 127
+Successful conversion.
+Total: 4 Depth: 4 Frame size: 96 Ave Frame size: 96
+Converted String: 1002 in base: 5, strtol: 127
+Successful conversion.
+Total: 4 Depth: 4 Frame size: 96 Ave Frame size: 96
+Converted String: 331 in base: 6, strtol: 127
+Successful conversion.
+Total: 3 Depth: 3 Frame size: 96 Ave Frame size: 96
+Converted String: 241 in base: 7, strtol: 127
+Successful conversion.
+Total: 3 Depth: 3 Frame size: 96 Ave Frame size: 96
+Converted String: 177 in base: 8, strtol: 127
+Successful conversion.
+Total: 3 Depth: 3 Frame size: 96 Ave Frame size: 96
+Converted String: 151 in base: 9, strtol: 127
+Successful conversion.
+Total: 3 Depth: 3 Frame size: 96 Ave Frame size: 96
+Converted String: 127 in base: 10, strtol: 127
+Successful conversion.
+Total: 3 Depth: 3 Frame size: 96 Ave Frame size: 96
+Converted String: 106 in base: 11, strtol: 127
+Successful conversion.
+Total: 3 Depth: 3 Frame size: 96 Ave Frame size: 96
+Converted String: a7 in base: 12, strtol: 127
+Successful conversion.
+Total: 2 Depth: 2 Frame size: 96 Ave Frame size: 96
+Converted String: 9a in base: 13, strtol: 127
+Successful conversion.
+Total: 2 Depth: 2 Frame size: 96 Ave Frame size: 96
+Converted String: 91 in base: 14, strtol: 127
+Successful conversion.
+Total: 2 Depth: 2 Frame size: 96 Ave Frame size: 96
+Converted String: 87 in base: 15, strtol: 127
+Successful conversion.
+Total: 2 Depth: 2 Frame size: 96 Ave Frame size: 96
+Converted String: 7f in base: 16, strtol: 127
+Successful conversion.
+Total: 2 Depth: 2 Frame size: 96 Ave Frame size: 96
+Converted String: 78 in base: 17, strtol: 127
+Successful conversion.
+Total: 2 Depth: 2 Frame size: 96 Ave Frame size: 96
+Converted String: 71 in base: 18, strtol: 127
+Successful conversion.
+Total: 2 Depth: 2 Frame size: 96 Ave Frame size: 96
+Converted String: 6d in base: 19, strtol: 127
+Successful conversion.
+Total: 2 Depth: 2 Frame size: 96 Ave Frame size: 96
+Converted String: 67 in base: 20, strtol: 127
+Successful conversion.
+Total: 2 Depth: 2 Frame size: 96 Ave Frame size: 96
+Converted String: 61 in base: 21, strtol: 127
+Successful conversion.
+Total: 2 Depth: 2 Frame size: 96 Ave Frame size: 96
+Converted String: 5h in base: 22, strtol: 127
+Successful conversion.
+Total: 2 Depth: 2 Frame size: 96 Ave Frame size: 96
+Converted String: 5c in base: 23, strtol: 127
+Successful conversion.
+Total: 2 Depth: 2 Frame size: 96 Ave Frame size: 96
+Converted String: 57 in base: 24, strtol: 127
+Successful conversion.
+Total: 2 Depth: 2 Frame size: 96 Ave Frame size: 96
+Converted String: 52 in base: 25, strtol: 127
+Successful conversion.
+Total: 2 Depth: 2 Frame size: 96 Ave Frame size: 96
+Converted String: 4n in base: 26, strtol: 127
+Successful conversion.
+Total: 2 Depth: 2 Frame size: 96 Ave Frame size: 96
+Converted String: 4j in base: 27, strtol: 127
+Successful conversion.
+Total: 2 Depth: 2 Frame size: 96 Ave Frame size: 96
+Converted String: 4f in base: 28, strtol: 127
+Successful conversion.
+Total: 2 Depth: 2 Frame size: 96 Ave Frame size: 96
+Converted String: 4b in base: 29, strtol: 127
+Successful conversion.
+Total: 2 Depth: 2 Frame size: 96 Ave Frame size: 96
+Converted String: 47 in base: 30, strtol: 127
+Successful conversion.
+Total: 2 Depth: 2 Frame size: 96 Ave Frame size: 96
+Converted String: 43 in base: 31, strtol: 127
+Successful conversion.
+Total: 2 Depth: 2 Frame size: 96 Ave Frame size: 96
+Converted String: 3v in base: 32, strtol: 127
+Successful conversion.
+Total: 2 Depth: 2 Frame size: 96 Ave Frame size: 96
+Converted String: 3s in base: 33, strtol: 127
+Successful conversion.
+Total: 2 Depth: 2 Frame size: 96 Ave Frame size: 96
+Converted String: 3p in base: 34, strtol: 127
+Successful conversion.
+Total: 2 Depth: 2 Frame size: 96 Ave Frame size: 96
+Converted String: 3m in base: 35, strtol: 127
+Successful conversion.
+Total: 2 Depth: 2 Frame size: 96 Ave Frame size: 96
+Converted String: 3j in base: 36, strtol: 127
+Successful conversion.
+Total: 2 Depth: 2 Frame size: 96 Ave Frame size: 96
+Not converted
+Total: 0 Depth: 0 Frame size: 0 Ave Frame size: 0
+
+
+
+Converting -128:
+Converted String: -10000000 in base: 2, strtol: -128
+Successful conversion.
+Total: 8 Depth: 8 Frame size: 96 Ave Frame size: 96
+Converted String: -11202 in base: 3, strtol: -128
+Successful conversion.
+Total: 5 Depth: 5 Frame size: 96 Ave Frame size: 96
+Converted String: -2000 in base: 4, strtol: -128
+Successful conversion.
+Total: 4 Depth: 4 Frame size: 96 Ave Frame size: 96
+Converted String: -1003 in base: 5, strtol: -128
+Successful conversion.
+Total: 4 Depth: 4 Frame size: 96 Ave Frame size: 96
+Converted String: -332 in base: 6, strtol: -128
+Successful conversion.
+Total: 3 Depth: 3 Frame size: 96 Ave Frame size: 96
+Converted String: -242 in base: 7, strtol: -128
+Successful conversion.
+Total: 3 Depth: 3 Frame size: 96 Ave Frame size: 96
+Converted String: -200 in base: 8, strtol: -128
+Successful conversion.
+Total: 3 Depth: 3 Frame size: 96 Ave Frame size: 96
+Converted String: -152 in base: 9, strtol: -128
+Successful conversion.
+Total: 3 Depth: 3 Frame size: 96 Ave Frame size: 96
+Converted String: -128 in base: 10, strtol: -128
+Successful conversion.
+Total: 3 Depth: 3 Frame size: 96 Ave Frame size: 96
+Converted String: -107 in base: 11, strtol: -128
+Successful conversion.
+Total: 3 Depth: 3 Frame size: 96 Ave Frame size: 96
+Converted String: -a8 in base: 12, strtol: -128
+Successful conversion.
+Total: 2 Depth: 2 Frame size: 96 Ave Frame size: 96
+Converted String: -9b in base: 13, strtol: -128
+Successful conversion.
+Total: 2 Depth: 2 Frame size: 96 Ave Frame size: 96
+Converted String: -92 in base: 14, strtol: -128
+Successful conversion.
+Total: 2 Depth: 2 Frame size: 96 Ave Frame size: 96
+Converted String: -88 in base: 15, strtol: -128
+Successful conversion.
+Total: 2 Depth: 2 Frame size: 96 Ave Frame size: 96
+Converted String: -80 in base: 16, strtol: -128
+Successful conversion.
+Total: 2 Depth: 2 Frame size: 96 Ave Frame size: 96
+Converted String: -79 in base: 17, strtol: -128
+Successful conversion.
+Total: 2 Depth: 2 Frame size: 96 Ave Frame size: 96
+Converted String: -72 in base: 18, strtol: -128
+Successful conversion.
+Total: 2 Depth: 2 Frame size: 96 Ave Frame size: 96
+Converted String: -6e in base: 19, strtol: -128
+Successful conversion.
+Total: 2 Depth: 2 Frame size: 96 Ave Frame size: 96
+Converted String: -68 in base: 20, strtol: -128
+Successful conversion.
+Total: 2 Depth: 2 Frame size: 96 Ave Frame size: 96
+Converted String: -62 in base: 21, strtol: -128
+Successful conversion.
+Total: 2 Depth: 2 Frame size: 96 Ave Frame size: 96
+Converted String: -5i in base: 22, strtol: -128
+Successful conversion.
+Total: 2 Depth: 2 Frame size: 96 Ave Frame size: 96
+Converted String: -5d in base: 23, strtol: -128
+Successful conversion.
+Total: 2 Depth: 2 Frame size: 96 Ave Frame size: 96
+Converted String: -58 in base: 24, strtol: -128
+Successful conversion.
+Total: 2 Depth: 2 Frame size: 96 Ave Frame size: 96
+Converted String: -53 in base: 25, strtol: -128
+Successful conversion.
+Total: 2 Depth: 2 Frame size: 96 Ave Frame size: 96
+Converted String: -4o in base: 26, strtol: -128
+Successful conversion.
+Total: 2 Depth: 2 Frame size: 96 Ave Frame size: 96
+Converted String: -4k in base: 27, strtol: -128
+Successful conversion.
+Total: 2 Depth: 2 Frame size: 96 Ave Frame size: 96
+Converted String: -4g in base: 28, strtol: -128
+Successful conversion.
+Total: 2 Depth: 2 Frame size: 96 Ave Frame size: 96
+Converted String: -4c in base: 29, strtol: -128
+Successful conversion.
+Total: 2 Depth: 2 Frame size: 96 Ave Frame size: 96
+Converted String: -48 in base: 30, strtol: -128
+Successful conversion.
+Total: 2 Depth: 2 Frame size: 96 Ave Frame size: 96
+Converted String: -44 in base: 31, strtol: -128
+Successful conversion.
+Total: 2 Depth: 2 Frame size: 96 Ave Frame size: 96
+Converted String: -40 in base: 32, strtol: -128
+Successful conversion.
+Total: 2 Depth: 2 Frame size: 96 Ave Frame size: 96
+Converted String: -3t in base: 33, strtol: -128
+Successful conversion.
+Total: 2 Depth: 2 Frame size: 96 Ave Frame size: 96
+Converted String: -3q in base: 34, strtol: -128
+Successful conversion.
+Total: 2 Depth: 2 Frame size: 96 Ave Frame size: 96
+Converted String: -3n in base: 35, strtol: -128
+Successful conversion.
+Total: 2 Depth: 2 Frame size: 96 Ave Frame size: 96
+Converted String: -3k in base: 36, strtol: -128
+Successful conversion.
+Total: 2 Depth: 2 Frame size: 96 Ave Frame size: 96
+Not converted
+Total: 0 Depth: 0 Frame size: 0 Ave Frame size: 0
+
+
+
+Converting 32767:
+Converted String: 111111111111111 in base: 2, strtol: 32767
+Successful conversion.
+Total: 15 Depth: 15 Frame size: 96 Ave Frame size: 96
+Converted String: 1122221121 in base: 3, strtol: 32767
+Successful conversion.
+Total: 10 Depth: 10 Frame size: 96 Ave Frame size: 96
+Converted String: 13333333 in base: 4, strtol: 32767
+Successful conversion.
+Total: 8 Depth: 8 Frame size: 96 Ave Frame size: 96
+Converted String: 2022032 in base: 5, strtol: 32767
+Successful conversion.
+Total: 7 Depth: 7 Frame size: 96 Ave Frame size: 96
+Converted String: 411411 in base: 6, strtol: 32767
+Successful conversion.
+Total: 6 Depth: 6 Frame size: 96 Ave Frame size: 96
+Converted String: 164350 in base: 7, strtol: 32767
+Successful conversion.
+Total: 6 Depth: 6 Frame size: 96 Ave Frame size: 96
+Converted String: 77777 in base: 8, strtol: 32767
+Successful conversion.
+Total: 5 Depth: 5 Frame size: 96 Ave Frame size: 96
+Converted String: 48847 in base: 9, strtol: 32767
+Successful conversion.
+Total: 5 Depth: 5 Frame size: 96 Ave Frame size: 96
+Converted String: 32767 in base: 10, strtol: 32767
+Successful conversion.
+Total: 5 Depth: 5 Frame size: 96 Ave Frame size: 96
+Converted String: 22689 in base: 11, strtol: 32767
+Successful conversion.
+Total: 5 Depth: 5 Frame size: 96 Ave Frame size: 96
+Converted String: 16b67 in base: 12, strtol: 32767
+Successful conversion.
+Total: 5 Depth: 5 Frame size: 96 Ave Frame size: 96
+Converted String: 11bb7 in base: 13, strtol: 32767
+Successful conversion.
+Total: 5 Depth: 5 Frame size: 96 Ave Frame size: 96
+Converted String: bd27 in base: 14, strtol: 32767
+Successful conversion.
+Total: 4 Depth: 4 Frame size: 96 Ave Frame size: 96
+Converted String: 9a97 in base: 15, strtol: 32767
+Successful conversion.
+Total: 4 Depth: 4 Frame size: 96 Ave Frame size: 96
+Converted String: 7fff in base: 16, strtol: 32767
+Successful conversion.
+Total: 4 Depth: 4 Frame size: 96 Ave Frame size: 96
+Converted String: 6b68 in base: 17, strtol: 32767
+Successful conversion.
+Total: 4 Depth: 4 Frame size: 96 Ave Frame size: 96
+Converted String: 5b27 in base: 18, strtol: 32767
+Successful conversion.
+Total: 4 Depth: 4 Frame size: 96 Ave Frame size: 96
+Converted String: 4eeb in base: 19, strtol: 32767
+Successful conversion.
+Total: 4 Depth: 4 Frame size: 96 Ave Frame size: 96
+Converted String: 41i7 in base: 20, strtol: 32767
+Successful conversion.
+Total: 4 Depth: 4 Frame size: 96 Ave Frame size: 96
+Converted String: 3b67 in base: 21, strtol: 32767
+Successful conversion.
+Total: 4 Depth: 4 Frame size: 96 Ave Frame size: 96
+Converted String: 31f9 in base: 22, strtol: 32767
+Successful conversion.
+Total: 4 Depth: 4 Frame size: 96 Ave Frame size: 96
+Converted String: 2flf in base: 23, strtol: 32767
+Successful conversion.
+Total: 4 Depth: 4 Frame size: 96 Ave Frame size: 96
+Converted String: 28l7 in base: 24, strtol: 32767
+Successful conversion.
+Total: 4 Depth: 4 Frame size: 96 Ave Frame size: 96
+Converted String: 22ah in base: 25, strtol: 32767
+Successful conversion.
+Total: 4 Depth: 4 Frame size: 96 Ave Frame size: 96
+Converted String: 1mc7 in base: 26, strtol: 32767
+Successful conversion.
+Total: 4 Depth: 4 Frame size: 96 Ave Frame size: 96
+Converted String: 1hpg in base: 27, strtol: 32767
+Successful conversion.
+Total: 4 Depth: 4 Frame size: 96 Ave Frame size: 96
+Converted String: 1dm7 in base: 28, strtol: 32767
+Successful conversion.
+Total: 4 Depth: 4 Frame size: 96 Ave Frame size: 96
+Converted String: 19rq in base: 29, strtol: 32767
+Successful conversion.
+Total: 4 Depth: 4 Frame size: 96 Ave Frame size: 96
+Converted String: 16c7 in base: 30, strtol: 32767
+Successful conversion.
+Total: 4 Depth: 4 Frame size: 96 Ave Frame size: 96
+Converted String: 1330 in base: 31, strtol: 32767
+Successful conversion.
+Total: 4 Depth: 4 Frame size: 96 Ave Frame size: 96
+Converted String: vvv in base: 32, strtol: 32767
+Successful conversion.
+Total: 3 Depth: 3 Frame size: 96 Ave Frame size: 96
+Converted String: u2v in base: 33, strtol: 32767
+Successful conversion.
+Total: 3 Depth: 3 Frame size: 96 Ave Frame size: 96
+Converted String: sbp in base: 34, strtol: 32767
+Successful conversion.
+Total: 3 Depth: 3 Frame size: 96 Ave Frame size: 96
+Converted String: qq7 in base: 35, strtol: 32767
+Successful conversion.
+Total: 3 Depth: 3 Frame size: 96 Ave Frame size: 96
+Converted String: pa7 in base: 36, strtol: 32767
+Successful conversion.
+Total: 3 Depth: 3 Frame size: 96 Ave Frame size: 96
+Not converted
+Total: 0 Depth: 0 Frame size: 0 Ave Frame size: 0
+
+
+
+Converting -32768:
+Converted String: -1000000000000000 in base: 2, strtol: -32768
+Successful conversion.
+Total: 16 Depth: 16 Frame size: 96 Ave Frame size: 96
+Converted String: -1122221122 in base: 3, strtol: -32768
+Successful conversion.
+Total: 10 Depth: 10 Frame size: 96 Ave Frame size: 96
+Converted String: -20000000 in base: 4, strtol: -32768
+Successful conversion.
+Total: 8 Depth: 8 Frame size: 96 Ave Frame size: 96
+Converted String: -2022033 in base: 5, strtol: -32768
+Successful conversion.
+Total: 7 Depth: 7 Frame size: 96 Ave Frame size: 96
+Converted String: -411412 in base: 6, strtol: -32768
+Successful conversion.
+Total: 6 Depth: 6 Frame size: 96 Ave Frame size: 96
+Converted String: -164351 in base: 7, strtol: -32768
+Successful conversion.
+Total: 6 Depth: 6 Frame size: 96 Ave Frame size: 96
+Converted String: -100000 in base: 8, strtol: -32768
+Successful conversion.
+Total: 6 Depth: 6 Frame size: 96 Ave Frame size: 96
+Converted String: -48848 in base: 9, strtol: -32768
+Successful conversion.
+Total: 5 Depth: 5 Frame size: 96 Ave Frame size: 96
+Converted String: -32768 in base: 10, strtol: -32768
+Successful conversion.
+Total: 5 Depth: 5 Frame size: 96 Ave Frame size: 96
+Converted String: -2268a in base: 11, strtol: -32768
+Successful conversion.
+Total: 5 Depth: 5 Frame size: 96 Ave Frame size: 96
+Converted String: -16b68 in base: 12, strtol: -32768
+Successful conversion.
+Total: 5 Depth: 5 Frame size: 96 Ave Frame size: 96
+Converted String: -11bb8 in base: 13, strtol: -32768
+Successful conversion.
+Total: 5 Depth: 5 Frame size: 96 Ave Frame size: 96
+Converted String: -bd28 in base: 14, strtol: -32768
+Successful conversion.
+Total: 4 Depth: 4 Frame size: 96 Ave Frame size: 96
+Converted String: -9a98 in base: 15, strtol: -32768
+Successful conversion.
+Total: 4 Depth: 4 Frame size: 96 Ave Frame size: 96
+Converted String: -8000 in base: 16, strtol: -32768
+Successful conversion.
+Total: 4 Depth: 4 Frame size: 96 Ave Frame size: 96
+Converted String: -6b69 in base: 17, strtol: -32768
+Successful conversion.
+Total: 4 Depth: 4 Frame size: 96 Ave Frame size: 96
+Converted String: -5b28 in base: 18, strtol: -32768
+Successful conversion.
+Total: 4 Depth: 4 Frame size: 96 Ave Frame size: 96
+Converted String: -4eec in base: 19, strtol: -32768
+Successful conversion.
+Total: 4 Depth: 4 Frame size: 96 Ave Frame size: 96
+Converted String: -41i8 in base: 20, strtol: -32768
+Successful conversion.
+Total: 4 Depth: 4 Frame size: 96 Ave Frame size: 96
+Converted String: -3b68 in base: 21, strtol: -32768
+Successful conversion.
+Total: 4 Depth: 4 Frame size: 96 Ave Frame size: 96
+Converted String: -31fa in base: 22, strtol: -32768
+Successful conversion.
+Total: 4 Depth: 4 Frame size: 96 Ave Frame size: 96
+Converted String: -2flg in base: 23, strtol: -32768
+Successful conversion.
+Total: 4 Depth: 4 Frame size: 96 Ave Frame size: 96
+Converted String: -28l8 in base: 24, strtol: -32768
+Successful conversion.
+Total: 4 Depth: 4 Frame size: 96 Ave Frame size: 96
+Converted String: -22ai in base: 25, strtol: -32768
+Successful conversion.
+Total: 4 Depth: 4 Frame size: 96 Ave Frame size: 96
+Converted String: -1mc8 in base: 26, strtol: -32768
+Successful conversion.
+Total: 4 Depth: 4 Frame size: 96 Ave Frame size: 96
+Converted String: -1hph in base: 27, strtol: -32768
+Successful conversion.
+Total: 4 Depth: 4 Frame size: 96 Ave Frame size: 96
+Converted String: -1dm8 in base: 28, strtol: -32768
+Successful conversion.
+Total: 4 Depth: 4 Frame size: 96 Ave Frame size: 96
+Converted String: -19rr in base: 29, strtol: -32768
+Successful conversion.
+Total: 4 Depth: 4 Frame size: 96 Ave Frame size: 96
+Converted String: -16c8 in base: 30, strtol: -32768
+Successful conversion.
+Total: 4 Depth: 4 Frame size: 96 Ave Frame size: 96
+Converted String: -1331 in base: 31, strtol: -32768
+Successful conversion.
+Total: 4 Depth: 4 Frame size: 96 Ave Frame size: 96
+Converted String: -1000 in base: 32, strtol: -32768
+Successful conversion.
+Total: 4 Depth: 4 Frame size: 96 Ave Frame size: 96
+Converted String: -u2w in base: 33, strtol: -32768
+Successful conversion.
+Total: 3 Depth: 3 Frame size: 96 Ave Frame size: 96
+Converted String: -sbq in base: 34, strtol: -32768
+Successful conversion.
+Total: 3 Depth: 3 Frame size: 96 Ave Frame size: 96
+Converted String: -qq8 in base: 35, strtol: -32768
+Successful conversion.
+Total: 3 Depth: 3 Frame size: 96 Ave Frame size: 96
+Converted String: -pa8 in base: 36, strtol: -32768
+Successful conversion.
+Total: 3 Depth: 3 Frame size: 96 Ave Frame size: 96
+Not converted
+Total: 0 Depth: 0 Frame size: 0 Ave Frame size: 0
+
+
+
+Converting 2147483647:
+Converted String: 1111111111111111111111111111111 in base: 2, strtol: 2147483647
+Successful conversion.
+Total: 31 Depth: 31 Frame size: 96 Ave Frame size: 96
+Converted String: 12112122212110202101 in base: 3, strtol: 2147483647
+Successful conversion.
+Total: 20 Depth: 20 Frame size: 96 Ave Frame size: 96
+Converted String: 1333333333333333 in base: 4, strtol: 2147483647
+Successful conversion.
+Total: 16 Depth: 16 Frame size: 96 Ave Frame size: 96
+Converted String: 13344223434042 in base: 5, strtol: 2147483647
+Successful conversion.
+Total: 14 Depth: 14 Frame size: 96 Ave Frame size: 96
+Converted String: 553032005531 in base: 6, strtol: 2147483647
+Successful conversion.
+Total: 12 Depth: 12 Frame size: 96 Ave Frame size: 96
+Converted String: 104134211161 in base: 7, strtol: 2147483647
+Successful conversion.
+Total: 12 Depth: 12 Frame size: 96 Ave Frame size: 96
+Converted String: 17777777777 in base: 8, strtol: 2147483647
+Successful conversion.
+Total: 11 Depth: 11 Frame size: 96 Ave Frame size: 96
+Converted String: 5478773671 in base: 9, strtol: 2147483647
+Successful conversion.
+Total: 10 Depth: 10 Frame size: 96 Ave Frame size: 96
+Converted String: 2147483647 in base: 10, strtol: 2147483647
+Successful conversion.
+Total: 10 Depth: 10 Frame size: 96 Ave Frame size: 96
+Converted String: a02220281 in base: 11, strtol: 2147483647
+Successful conversion.
+Total: 9 Depth: 9 Frame size: 96 Ave Frame size: 96
+Converted String: 4bb2308a7 in base: 12, strtol: 2147483647
+Successful conversion.
+Total: 9 Depth: 9 Frame size: 96 Ave Frame size: 96
+Converted String: 282ba4aaa in base: 13, strtol: 2147483647
+Successful conversion.
+Total: 9 Depth: 9 Frame size: 96 Ave Frame size: 96
+Converted String: 1652ca931 in base: 14, strtol: 2147483647
+Successful conversion.
+Total: 9 Depth: 9 Frame size: 96 Ave Frame size: 96
+Converted String: c87e66b7 in base: 15, strtol: 2147483647
+Successful conversion.
+Total: 8 Depth: 8 Frame size: 96 Ave Frame size: 96
+Converted String: 7fffffff in base: 16, strtol: 2147483647
+Successful conversion.
+Total: 8 Depth: 8 Frame size: 96 Ave Frame size: 96
+Converted String: 53g7f548 in base: 17, strtol: 2147483647
+Successful conversion.
+Total: 8 Depth: 8 Frame size: 96 Ave Frame size: 96
+Converted String: 3928g3h1 in base: 18, strtol: 2147483647
+Successful conversion.
+Total: 8 Depth: 8 Frame size: 96 Ave Frame size: 96
+Converted String: 27c57h32 in base: 19, strtol: 2147483647
+Successful conversion.
+Total: 8 Depth: 8 Frame size: 96 Ave Frame size: 96
+Converted String: 1db1f927 in base: 20, strtol: 2147483647
+Successful conversion.
+Total: 8 Depth: 8 Frame size: 96 Ave Frame size: 96
+Converted String: 140h2d91 in base: 21, strtol: 2147483647
+Successful conversion.
+Total: 8 Depth: 8 Frame size: 96 Ave Frame size: 96
+Converted String: ikf5bf1 in base: 22, strtol: 2147483647
+Successful conversion.
+Total: 7 Depth: 7 Frame size: 96 Ave Frame size: 96
+Converted String: ebelf95 in base: 23, strtol: 2147483647
+Successful conversion.
+Total: 7 Depth: 7 Frame size: 96 Ave Frame size: 96
+Converted String: b5gge57 in base: 24, strtol: 2147483647
+Successful conversion.
+Total: 7 Depth: 7 Frame size: 96 Ave Frame size: 96
+Converted String: 8jmdnkm in base: 25, strtol: 2147483647
+Successful conversion.
+Total: 7 Depth: 7 Frame size: 96 Ave Frame size: 96
+Converted String: 6oj8ion in base: 26, strtol: 2147483647
+Successful conversion.
+Total: 7 Depth: 7 Frame size: 96 Ave Frame size: 96
+Converted String: 5ehncka in base: 27, strtol: 2147483647
+Successful conversion.
+Total: 7 Depth: 7 Frame size: 96 Ave Frame size: 96
+Converted String: 4clm98f in base: 28, strtol: 2147483647
+Successful conversion.
+Total: 7 Depth: 7 Frame size: 96 Ave Frame size: 96
+Converted String: 3hk7987 in base: 29, strtol: 2147483647
+Successful conversion.
+Total: 7 Depth: 7 Frame size: 96 Ave Frame size: 96
+Converted String: 2sb6cs7 in base: 30, strtol: 2147483647
+Successful conversion.
+Total: 7 Depth: 7 Frame size: 96 Ave Frame size: 96
+Converted String: 2d09uc1 in base: 31, strtol: 2147483647
+Successful conversion.
+Total: 7 Depth: 7 Frame size: 96 Ave Frame size: 96
+Converted String: 1vvvvvv in base: 32, strtol: 2147483647
+Successful conversion.
+Total: 7 Depth: 7 Frame size: 96 Ave Frame size: 96
+Converted String: 1lsqtl1 in base: 33, strtol: 2147483647
+Successful conversion.
+Total: 7 Depth: 7 Frame size: 96 Ave Frame size: 96
+Converted String: 1d8xqrp in base: 34, strtol: 2147483647
+Successful conversion.
+Total: 7 Depth: 7 Frame size: 96 Ave Frame size: 96
+Converted String: 15v22um in base: 35, strtol: 2147483647
+Successful conversion.
+Total: 7 Depth: 7 Frame size: 96 Ave Frame size: 96
+Converted String: zik0zj in base: 36, strtol: 2147483647
+Successful conversion.
+Total: 6 Depth: 6 Frame size: 96 Ave Frame size: 96
+Not converted
+Total: 0 Depth: 0 Frame size: 0 Ave Frame size: 0
+
+
+
+Converting 9223372036854775807:
+Converted String: 111111111111111111111111111111111111111111111111111111111111111 in base: 2, strtol: 9223372036854775807
+Successful conversion.
+Total: 63 Depth: 63 Frame size: 96 Ave Frame size: 96
+Converted String: 2021110011022210012102010021220101220221 in base: 3, strtol: 9223372036854775807
+Successful conversion.
+Total: 40 Depth: 40 Frame size: 96 Ave Frame size: 96
+Converted String: 13333333333333333333333333333333 in base: 4, strtol: 9223372036854775807
+Successful conversion.
+Total: 32 Depth: 32 Frame size: 96 Ave Frame size: 96
+Converted String: 1104332401304422434310311212 in base: 5, strtol: 9223372036854775807
+Successful conversion.
+Total: 28 Depth: 28 Frame size: 96 Ave Frame size: 96
+Converted String: 1540241003031030222122211 in base: 6, strtol: 9223372036854775807
+Successful conversion.
+Total: 25 Depth: 25 Frame size: 96 Ave Frame size: 96
+Converted String: 22341010611245052052300 in base: 7, strtol: 9223372036854775807
+Successful conversion.
+Total: 23 Depth: 23 Frame size: 96 Ave Frame size: 96
+Converted String: 777777777777777777777 in base: 8, strtol: 9223372036854775807
+Successful conversion.
+Total: 21 Depth: 21 Frame size: 96 Ave Frame size: 96
+Converted String: 67404283172107811827 in base: 9, strtol: 9223372036854775807
+Successful conversion.
+Total: 20 Depth: 20 Frame size: 96 Ave Frame size: 96
+Converted String: 9223372036854775807 in base: 10, strtol: 9223372036854775807
+Successful conversion.
+Total: 19 Depth: 19 Frame size: 96 Ave Frame size: 96
+Converted String: 1728002635214590697 in base: 11, strtol: 9223372036854775807
+Successful conversion.
+Total: 19 Depth: 19 Frame size: 96 Ave Frame size: 96
+Converted String: 41a792678515120367 in base: 12, strtol: 9223372036854775807
+Successful conversion.
+Total: 18 Depth: 18 Frame size: 96 Ave Frame size: 96
+Converted String: 10b269549075433c37 in base: 13, strtol: 9223372036854775807
+Successful conversion.
+Total: 18 Depth: 18 Frame size: 96 Ave Frame size: 96
+Converted String: 4340724c6c71dc7a7 in base: 14, strtol: 9223372036854775807
+Successful conversion.
+Total: 17 Depth: 17 Frame size: 96 Ave Frame size: 96
+Converted String: 160e2ad3246366807 in base: 15, strtol: 9223372036854775807
+Successful conversion.
+Total: 17 Depth: 17 Frame size: 96 Ave Frame size: 96
+Converted String: 7fffffffffffffff in base: 16, strtol: 9223372036854775807
+Successful conversion.
+Total: 16 Depth: 16 Frame size: 96 Ave Frame size: 96
+Converted String: 33d3d8307b214008 in base: 17, strtol: 9223372036854775807
+Successful conversion.
+Total: 16 Depth: 16 Frame size: 96 Ave Frame size: 96
+Converted String: 16agh595df825fa7 in base: 18, strtol: 9223372036854775807
+Successful conversion.
+Total: 16 Depth: 16 Frame size: 96 Ave Frame size: 96
+Converted String: ba643dci0ffeehh in base: 19, strtol: 9223372036854775807
+Successful conversion.
+Total: 15 Depth: 15 Frame size: 96 Ave Frame size: 96
+Converted String: 5cbfjia3fh26ja7 in base: 20, strtol: 9223372036854775807
+Successful conversion.
+Total: 15 Depth: 15 Frame size: 96 Ave Frame size: 96
+Converted String: 2heiciiie82dh97 in base: 21, strtol: 9223372036854775807
+Successful conversion.
+Total: 15 Depth: 15 Frame size: 96 Ave Frame size: 96
+Converted String: 1adaibb21dckfa7 in base: 22, strtol: 9223372036854775807
+Successful conversion.
+Total: 15 Depth: 15 Frame size: 96 Ave Frame size: 96
+Converted String: i6k448cf4192c2 in base: 23, strtol: 9223372036854775807
+Successful conversion.
+Total: 14 Depth: 14 Frame size: 96 Ave Frame size: 96
+Converted String: acd772jnc9l0l7 in base: 24, strtol: 9223372036854775807
+Successful conversion.
+Total: 14 Depth: 14 Frame size: 96 Ave Frame size: 96
+Converted String: 64ie1focnn5g77 in base: 25, strtol: 9223372036854775807
+Successful conversion.
+Total: 14 Depth: 14 Frame size: 96 Ave Frame size: 96
+Converted String: 3igoecjbmca687 in base: 26, strtol: 9223372036854775807
+Successful conversion.
+Total: 14 Depth: 14 Frame size: 96 Ave Frame size: 96
+Converted String: 27c48l5b37oaop in base: 27, strtol: 9223372036854775807
+Successful conversion.
+Total: 14 Depth: 14 Frame size: 96 Ave Frame size: 96
+Converted String: 1bk39f3ah3dmq7 in base: 28, strtol: 9223372036854775807
+Successful conversion.
+Total: 14 Depth: 14 Frame size: 96 Ave Frame size: 96
+Converted String: q1se8f0m04isb in base: 29, strtol: 9223372036854775807
+Successful conversion.
+Total: 13 Depth: 13 Frame size: 96 Ave Frame size: 96
+Converted String: hajppbc1fc207 in base: 30, strtol: 9223372036854775807
+Successful conversion.
+Total: 13 Depth: 13 Frame size: 96 Ave Frame size: 96
+Converted String: bm03i95hia437 in base: 31, strtol: 9223372036854775807
+Successful conversion.
+Total: 13 Depth: 13 Frame size: 96 Ave Frame size: 96
+Converted String: 7vvvvvvvvvvvv in base: 32, strtol: 9223372036854775807
+Successful conversion.
+Total: 13 Depth: 13 Frame size: 96 Ave Frame size: 96
+Converted String: 5hg4ck9jd4u37 in base: 33, strtol: 9223372036854775807
+Successful conversion.
+Total: 13 Depth: 13 Frame size: 96 Ave Frame size: 96
+Converted String: 3tdtk1v8j6tpp in base: 34, strtol: 9223372036854775807
+Successful conversion.
+Total: 13 Depth: 13 Frame size: 96 Ave Frame size: 96
+Converted String: 2pijmikexrxp7 in base: 35, strtol: 9223372036854775807
+Successful conversion.
+Total: 13 Depth: 13 Frame size: 96 Ave Frame size: 96
+Converted String: 1y2p0ij32e8e7 in base: 36, strtol: 9223372036854775807
+Successful conversion.
+Total: 13 Depth: 13 Frame size: 96 Ave Frame size: 96
+Not converted
+Total: 0 Depth: 0 Frame size: 0 Ave Frame size: 0
+
+
+
+Converting -9223372036854775808:
+Converted String: -1000000000000000000000000000000000000000000000000000000000000000 in base: 2, strtol: -9223372036854775808
+Successful conversion.
+Total: 64 Depth: 64 Frame size: 96 Ave Frame size: 96
+Converted String: -2021110011022210012102010021220101220222 in base: 3, strtol: -9223372036854775808
+Successful conversion.
+Total: 40 Depth: 40 Frame size: 96 Ave Frame size: 96
+Converted String: -20000000000000000000000000000000 in base: 4, strtol: -9223372036854775808
+Successful conversion.
+Total: 32 Depth: 32 Frame size: 96 Ave Frame size: 96
+Converted String: -1104332401304422434310311213 in base: 5, strtol: -9223372036854775808
+Successful conversion.
+Total: 28 Depth: 28 Frame size: 96 Ave Frame size: 96
+Converted String: -1540241003031030222122212 in base: 6, strtol: -9223372036854775808
+Successful conversion.
+Total: 25 Depth: 25 Frame size: 96 Ave Frame size: 96
+Converted String: -22341010611245052052301 in base: 7, strtol: -9223372036854775808
+Successful conversion.
+Total: 23 Depth: 23 Frame size: 96 Ave Frame size: 96
+Converted String: -1000000000000000000000 in base: 8, strtol: -9223372036854775808
+Successful conversion.
+Total: 22 Depth: 22 Frame size: 96 Ave Frame size: 96
+Converted String: -67404283172107811828 in base: 9, strtol: -9223372036854775808
+Successful conversion.
+Total: 20 Depth: 20 Frame size: 96 Ave Frame size: 96
+Converted String: -9223372036854775808 in base: 10, strtol: -9223372036854775808
+Successful conversion.
+Total: 19 Depth: 19 Frame size: 96 Ave Frame size: 96
+Converted String: -1728002635214590698 in base: 11, strtol: -9223372036854775808
+Successful conversion.
+Total: 19 Depth: 19 Frame size: 96 Ave Frame size: 96
+Converted String: -41a792678515120368 in base: 12, strtol: -9223372036854775808
+Successful conversion.
+Total: 18 Depth: 18 Frame size: 96 Ave Frame size: 96
+Converted String: -10b269549075433c38 in base: 13, strtol: -9223372036854775808
+Successful conversion.
+Total: 18 Depth: 18 Frame size: 96 Ave Frame size: 96
+Converted String: -4340724c6c71dc7a8 in base: 14, strtol: -9223372036854775808
+Successful conversion.
+Total: 17 Depth: 17 Frame size: 96 Ave Frame size: 96
+Converted String: -160e2ad3246366808 in base: 15, strtol: -9223372036854775808
+Successful conversion.
+Total: 17 Depth: 17 Frame size: 96 Ave Frame size: 96
+Converted String: -8000000000000000 in base: 16, strtol: -9223372036854775808
+Successful conversion.
+Total: 16 Depth: 16 Frame size: 96 Ave Frame size: 96
+Converted String: -33d3d8307b214009 in base: 17, strtol: -9223372036854775808
+Successful conversion.
+Total: 16 Depth: 16 Frame size: 96 Ave Frame size: 96
+Converted String: -16agh595df825fa8 in base: 18, strtol: -9223372036854775808
+Successful conversion.
+Total: 16 Depth: 16 Frame size: 96 Ave Frame size: 96
+Converted String: -ba643dci0ffeehi in base: 19, strtol: -9223372036854775808
+Successful conversion.
+Total: 15 Depth: 15 Frame size: 96 Ave Frame size: 96
+Converted String: -5cbfjia3fh26ja8 in base: 20, strtol: -9223372036854775808
+Successful conversion.
+Total: 15 Depth: 15 Frame size: 96 Ave Frame size: 96
+Converted String: -2heiciiie82dh98 in base: 21, strtol: -9223372036854775808
+Successful conversion.
+Total: 15 Depth: 15 Frame size: 96 Ave Frame size: 96
+Converted String: -1adaibb21dckfa8 in base: 22, strtol: -9223372036854775808
+Successful conversion.
+Total: 15 Depth: 15 Frame size: 96 Ave Frame size: 96
+Converted String: -i6k448cf4192c3 in base: 23, strtol: -9223372036854775808
+Successful conversion.
+Total: 14 Depth: 14 Frame size: 96 Ave Frame size: 96
+Converted String: -acd772jnc9l0l8 in base: 24, strtol: -9223372036854775808
+Successful conversion.
+Total: 14 Depth: 14 Frame size: 96 Ave Frame size: 96
+Converted String: -64ie1focnn5g78 in base: 25, strtol: -9223372036854775808
+Successful conversion.
+Total: 14 Depth: 14 Frame size: 96 Ave Frame size: 96
+Converted String: -3igoecjbmca688 in base: 26, strtol: -9223372036854775808
+Successful conversion.
+Total: 14 Depth: 14 Frame size: 96 Ave Frame size: 96
+Converted String: -27c48l5b37oaoq in base: 27, strtol: -9223372036854775808
+Successful conversion.
+Total: 14 Depth: 14 Frame size: 96 Ave Frame size: 96
+Converted String: -1bk39f3ah3dmq8 in base: 28, strtol: -9223372036854775808
+Successful conversion.
+Total: 14 Depth: 14 Frame size: 96 Ave Frame size: 96
+Converted String: -q1se8f0m04isc in base: 29, strtol: -9223372036854775808
+Successful conversion.
+Total: 13 Depth: 13 Frame size: 96 Ave Frame size: 96
+Converted String: -hajppbc1fc208 in base: 30, strtol: -9223372036854775808
+Successful conversion.
+Total: 13 Depth: 13 Frame size: 96 Ave Frame size: 96
+Converted String: -bm03i95hia438 in base: 31, strtol: -9223372036854775808
+Successful conversion.
+Total: 13 Depth: 13 Frame size: 96 Ave Frame size: 96
+Converted String: -8000000000000 in base: 32, strtol: -9223372036854775808
+Successful conversion.
+Total: 13 Depth: 13 Frame size: 96 Ave Frame size: 96
+Converted String: -5hg4ck9jd4u38 in base: 33, strtol: -9223372036854775808
+Successful conversion.
+Total: 13 Depth: 13 Frame size: 96 Ave Frame size: 96
+Converted String: -3tdtk1v8j6tpq in base: 34, strtol: -9223372036854775808
+Successful conversion.
+Total: 13 Depth: 13 Frame size: 96 Ave Frame size: 96
+Converted String: -2pijmikexrxp8 in base: 35, strtol: -9223372036854775808
+Successful conversion.
+Total: 13 Depth: 13 Frame size: 96 Ave Frame size: 96
+Converted String: -1y2p0ij32e8e8 in base: 36, strtol: -9223372036854775808
+Successful conversion.
+Total: 13 Depth: 13 Frame size: 96 Ave Frame size: 96
+Not converted
+Total: 0 Depth: 0 Frame size: 0 Ave Frame size: 0
+
+

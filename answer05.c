@@ -15,9 +15,31 @@ void rec_magnitude_long_int_to_string(long int number, int base,
    Increment_counter(&number);
 
    // put your code here
+	int remainder;	
+	if(number > 0){
+		remainder = number % base;}
 
+	else{
+		remainder = (number % base) * -1;}
 
+	long int quotient = number / base;		 
+	 
+	if(number == 0)
+	{
+		return;
+	}
 
+	else
+	{	
+		rec_magnitude_long_int_to_string(quotient, base, intstring, stringlen);
+		if(remainder < 10){
+			intstring[(*stringlen)++] = (char) remainder + '0';}
+		else{
+			intstring[(*stringlen)++] = (char) remainder + '0'+ 39;}
+
+		//(*stringlen)++;
+	}		
+		
   // Last statement
    Decrement_counter();
 }

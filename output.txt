@@ -1,0 +1,28 @@
+TEST CASE: 1 (long_int_to_string): 
+Tests for 4870,864,6894564
+PASS
+Tests for -94870,-586,-626204
+PASS
+Tests for 0
+PASS
+Tests for MIN and MAX for LONG,CHAR, SHRT and INT
+PASS
+Tests for NumCalls 8746592,1386,2,641297
+PASS
+Tests for NumCalls -56478,-5,-24,-4597567
+PASS
+Tests for NumCalls MIN and MAX for LONG,CHAR, SHRT and INT
+PASS
+Tests for NumCalls 0
+PASS
+TEST CASE: valgrind
+memcheck.log.0
+memcheck.log.1
+memcheck.log.2
+memcheck.log.3
+memcheck.log.4
+memcheck.log.5
+memcheck.log.6
+memcheck.log.7
+ PASS
+Points: 1.000000 
